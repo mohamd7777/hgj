@@ -5,8 +5,8 @@ var fs = require("fs");
 var commands = {};
 var commandsCheck = [];
 client.config = {
-    prefix: "#",
-    token: "NDk4ODQ3NDAyMTE1OTg5NTA2.D2AHcA.NVmgnd2Ti_dVxvXrvDNYvcU8bf8"
+    prefix: "m",
+    token: "NTYyNzA4MTM0ODI1Njg5MTAw.XK5PGg.hRtpOWykN8zSRSIgphdDkHU7rNw"
 };
 // CommandHandler Setup
 fs.readdir("./commands", async (error, files) => {
